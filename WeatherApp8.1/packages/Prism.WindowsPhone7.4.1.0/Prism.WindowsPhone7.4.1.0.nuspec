@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Prism.WindowsPhone7</id>
+    <version>4.1.0</version>
+    <title>Prism library for Windows Phone 7</title>
+    <authors>Jozef Izso</authors>
+    <owners>Jozef Izso</owners>
+    <licenseUrl>http://www.opensource.org/licenses/MS-PL</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a Prism library ported for Windows Phone 7.1 RC.</description>
+    <summary>This is a Prism library ported for Windows Phone 7.1 RC.</summary>
+    <releaseNotes />
+    <copyright>Copyright (c) 2011 Jozef Izso</copyright>
+    <language />
+    <tags>prism wp7 windows phone</tags>
+  </metadata>
+</package>
